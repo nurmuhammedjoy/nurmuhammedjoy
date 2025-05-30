@@ -16,10 +16,10 @@ I also enjoy **building websites**, experimenting with **hardware**, and explori
 - **Linux** (Debian / Ubuntu / Arch based)
 - **Termux** (native)
 - **JavaScript** (ES6+)
-- **Python** (beginner-friendly to intermediate scripting)
+- **Python**
 - **React** (frontend development)
-- **Bash** (scripting and automation)
-- **C** (system programming and experiments)
+- **Bash** 
+- **C** 
 
 ---
 
