@@ -13,13 +13,13 @@ I also enjoy **building websites**, experimenting with **hardware**, and explori
 
 ## Skills
 
-- **Linux** (Debian / Ubuntu / Arch based)
+- **Linux** (Debian based / Arch based)
 - **Termux** (native)
 - **JavaScript** (ES6+)
-- **Python** (beginner-friendly to intermediate scripting)
-- **React** (frontend development)
-- **Bash** (scripting and automation)
-- **C** (system programming and experiments)
+- **Python** 
+- **React** 
+- **Bash** 
+- **C** 
 
 ---
 
