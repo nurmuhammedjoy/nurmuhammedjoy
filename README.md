@@ -26,7 +26,7 @@ I also enjoy **building websites**, experimenting with **hardware**, and explori
 ## How to Reach Me
 
 - **Email**: [nurmahammedjoy@gmail.com](mailto:nurmahammedjoy@gmail.com)
-- **Discord**: `sextyfour` or **ID**: `1323295600376156210`
+- **Discord**: `6ixty4our` or **ID**: `1323295600376156210`
 
 ---
 
