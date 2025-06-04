@@ -10,6 +10,7 @@ Hi, I’m Nur Muhammad Joy, a 16-year-old student currently in class 10. I’m p
 # 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🔝 Top Contributed Repo
