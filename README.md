@@ -10,6 +10,7 @@ Hi, I’m Nur Muhammad Joy, a 16-year-old student currently in class 10. I’m p
 # 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammedjoy&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
