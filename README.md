@@ -15,6 +15,6 @@ Hi, I’m Nur Muhammad Joy, a 16-year-old student currently in class 10. I’m p
 ![](https://github-contributor-stats.vercel.app/api?username=Nur Muhammad Joy &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nur Muhammad Joy &icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nurmuhammedjoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
