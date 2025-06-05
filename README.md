@@ -13,15 +13,10 @@ Hi, I’m Nur Muhammad Joy, a 16-year-old student currently in class 10. I’m p
   <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=transparent" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=transphttps://streak-stats.demolab.com?user=nurmuhammedjoy&theme=transparentarent" />
+    <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=transphttps://streak-stats.demolab.com?user=nurmuhammedjoy&theme=transparent" />
   </a>
 </div>
 
-> Language usage
-
-<div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=nurmuhammedjoy&theme=transparentarent&layout=compact"/>
-</div>
 
 
 > Code analysis
