@@ -1,4 +1,4 @@
-# designer & developer 
+# Hi, I'm muhammad
 
 ![A](https://raw.githubusercontent.com/nurmuhammedjoy/nurmuhammedjoy/refs/heads/main/NUR%20MUHAMMAD%20JOY.png)
 
