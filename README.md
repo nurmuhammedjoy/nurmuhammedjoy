@@ -1,7 +1,8 @@
+# designer & developer 
 
 ![A](https://raw.githubusercontent.com/nurmuhammedjoy/nurmuhammedjoy/refs/heads/main/NUR%20MUHAMMAD%20JOY.png)
 
-# 💫 About Me:
+
 
 Hi, I’m Nur Muhammad Joy, a 16-year-old student currently in class 10. I’m passionate about programming and love building projects that challenge me to learn and grow. I enjoy exploring new technologies and turning ideas into working code. I'm still learning, but I'm always excited to improve and take on new challenges. One of my biggest passions is building CPUs in Minecraft it's where creativity meets logic, and I love every part of it. I hope to share my projects, collaborate with other.
 
