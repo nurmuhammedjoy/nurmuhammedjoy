@@ -1,6 +1,9 @@
 # Muhammad 
 
-![A](https://raw.githubusercontent.com/nurmuhammedjoy/nurmuhammedjoy/refs/heads/main/NUR%20MUHAMMAD%20JOY.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nurmuhammedjoy/nurmuhammedjoy/refs/heads/main/NUR%20MUHAMMAD%20JOY.png" alt="A" />
+</div>
+
 
 
 
