@@ -21,13 +21,16 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=transparent" />
+  
   <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=transphttps://streak-stats.demolab.com?user=nurmuhammedjoy&theme=transparent" />
   </a>
 </div>
 
+
+## 📫 How to reach me:
+- GitHub: [@nurmuhammedjoy](https://github.com/nurmuhammedjoy)
 
 
 > Code analysis
