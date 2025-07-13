@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nurmuhammed
+# Hi there 👋 I'm Nur muhammed joy
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nurmuhammedjoy/nurmuhammedjoy/refs/heads/main/NUR%20MUHAMMAD%20JOY.png" alt="A" />
@@ -6,7 +6,10 @@
 
 
 
-
+## About Me
+- 🔭 I'm a Developer
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about technology, coding, and development
 
 
 ## 🌐 Socials:
