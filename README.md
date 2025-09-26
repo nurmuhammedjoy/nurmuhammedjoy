@@ -29,10 +29,17 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/https://discord.gg/ecNkBpkZ">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <!-- Add your other social media badges here -->
+  <a <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
+    <a href="mailto:nurmahammedjoy@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://discord.gg/ecNkBpkZ" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://github.com/nurmuhammedjoy" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
