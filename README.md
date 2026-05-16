@@ -54,7 +54,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=dark" alt="GitHub Stats" height="170">
   <br><br>
   <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=dark" alt="GitHub Streak" />
 </div>
