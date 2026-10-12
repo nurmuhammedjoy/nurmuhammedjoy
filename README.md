@@ -12,8 +12,8 @@
 ## About Me
 
 - Software developer and open-source contributor
-- C, Shell, Lua, GTK, X11
-- Neovim, i3 and bspwm on Termux
+- Languages: C, Shell, Lua
+- Tooling: GTK, X11, Neovim, i3 and bspwm
 - Based in Dhaka, Bangladesh
 - Open to collaboration
 
