@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Nur Muhammad Joy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"></h1>
 
-  <p>I build a real Linux desktop on Android — window managers, status bars and daemons, native on Termux, no proot.</p>
-
   <a href="https://github.com/nurmuhammedjoy"><img src="https://img.shields.io/github/followers/nurmuhammedjoy?label=Follow&style=social" alt="Follow Nur Muhammad Joy on GitHub"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nurmuhammedjoy.nurmuhammedjoy" alt="Profile visitor count">
 
