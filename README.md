@@ -73,7 +73,7 @@
 <div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=gruvbox&hide_border=true" alt="Nur Muhammad Joy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammedjoy&layout=compact&theme=gruvbox&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammedjoy&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Most used languages" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=gruvbox&hide_border=true" alt="GitHub streak stats" />
 </div>
