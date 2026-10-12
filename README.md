@@ -13,12 +13,11 @@
 
 ## About Me
 
-- 🔧 Building a Linux desktop that runs natively on Android — tiling window managers, status bars and background daemons
-- 🛠️ Currently working on **tnotd** — a C daemon that pushes Android notifications into X11/GTK through Termux:API
-- 💻 C · Shell · Lua · GTK · X11
-- 🌱 **zenvim** — a Neovim setup tuned for coding on a phone
-- 📍 Based in Dhaka, Bangladesh
-- 🤝 Open to collaborating on Termux, X11 and open-source desktop tooling
+- Software developer and open-source contributor
+- C, Shell, Lua, GTK, X11
+- Neovim, i3 and bspwm on Termux
+- Based in Dhaka, Bangladesh
+- Open to collaboration
 
 ## Selected work
 
