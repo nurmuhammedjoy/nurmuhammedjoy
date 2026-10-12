@@ -1,30 +1,26 @@
 <div align="center">
   <h1>Hi there, I'm Nur Muhammad Joy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"></h1>
 
+  <br>
+
   <a href="https://github.com/nurmuhammedjoy"><img src="https://img.shields.io/github/followers/nurmuhammedjoy?label=Follow&style=social" alt="Follow Nur Muhammad Joy on GitHub"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nurmuhammedjoy.nurmuhammedjoy" alt="Profile visitor count">
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Linux+desktop+on+Android;C,+Shell,+Lua;Termux+without+proot" alt="Typing: Linux desktop on Android / C, Shell, Lua / Termux without proot" />
 </div>
 
 ## About Me
 
 - Software developer and open-source contributor
-- Languages: C, Shell, Lua
-- Tooling: GTK, X11, Neovim, i3 and bspwm
-- Based in Dhaka, Bangladesh
+- Day-to-day: Neovim, X11, GTK theming and shell scripting
 - Open to collaboration
 
 ## Selected work
 
 | Project | What it is |
 | --- | --- |
-| [**tnotd**](https://github.com/nurmuhammedjoy/tnotd) | Lightweight C daemon: Android notifications → X11/GTK, via Termux:API |
-| [**bspwm**](https://github.com/nurmuhammedjoy/bspwm) | Gruvbox BSPWM + Quickshell running natively on Termux, without proot |
-| [**zenvim**](https://github.com/nurmuhammedjoy/zenvim) | Neovim configuration optimized for coding on Termux |
-| [**.dotfile**](https://github.com/nurmuhammedjoy/.dotfile) | i3 with Polybar custom modules, a Rofi music player and a fetch tool |
+| [**tnotd**](https://github.com/nurmuhammedjoy/tnotd) | Android notifications → X11/GTK, in C |
+| [**bspwm**](https://github.com/nurmuhammedjoy/bspwm) | Gruvbox BSPWM + Quickshell, no proot |
+| [**zenvim**](https://github.com/nurmuhammedjoy/zenvim) | Neovim config tuned for Termux |
+| [**.dotfile**](https://github.com/nurmuhammedjoy/.dotfile) | i3, Polybar and Rofi setup for Termux |
 
 <br clear="right"/>
 
