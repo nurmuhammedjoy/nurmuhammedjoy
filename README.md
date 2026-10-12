@@ -28,8 +28,6 @@
 | [**bspwm**](https://github.com/nurmuhammedjoy/bspwm) | Gruvbox BSPWM + Quickshell running natively on Termux, without proot |
 | [**zenvim**](https://github.com/nurmuhammedjoy/zenvim) | Neovim configuration optimized for coding on Termux |
 | [**.dotfile**](https://github.com/nurmuhammedjoy/.dotfile) | i3 with Polybar custom modules, a Rofi music player and a fetch tool |
-| [**lemonbar-termux**](https://github.com/nurmuhammedjoy/lemonbar-termux) | Build script and configuration for running Lemonbar on Termux |
-| [**I3-mngr**](https://github.com/nurmuhammedjoy/I3-mngr) | Bash tool to install, theme and manage i3wm entirely from the terminal |
 
 <br clear="right"/>
 
