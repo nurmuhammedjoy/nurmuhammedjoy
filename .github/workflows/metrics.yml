@@ -12,6 +12,7 @@ jobs:
           filename: metrics.plugin.16personalities.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugins_errors_fatal: yes
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
           plugin_16personalities_sections: personality, traits
