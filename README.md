@@ -1,79 +1,53 @@
-<div align="center">
-  <h1>Hi there, I'm Nur Muhammad Joy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"></h1>
+# Hi there, I'm Nur Muhammad Joy 👋
 
-  <br>
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/nurmuhammedjoy)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nurmuhammedjoy.nurmuhammedjoy)
 
-  <a href="https://github.com/nurmuhammedjoy"><img src="https://img.shields.io/github/followers/nurmuhammedjoy?label=Follow&style=social" alt="Follow Nur Muhammad Joy on GitHub"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nurmuhammedjoy.nurmuhammedjoy" alt="Profile visitor count">
-</div>
+---
 
-## About Me
+## 💻 About Me
 
-- Software developer and open-source contributor
-- Day-to-day: Neovim, X11, GTK theming and shell scripting
-- Open to collaboration
+I'm Muhammad, age 17, I stashed programming
 
-## Selected work
+## 🚀 Selected Work
 
-| Project | What it is |
-| --- | --- |
-| [**tnotd**](https://github.com/nurmuhammedjoy/tnotd) | Android notifications → X11/GTK, in C |
-| [**bspwm**](https://github.com/nurmuhammedjoy/bspwm) | Gruvbox BSPWM + Quickshell, no proot |
-| [**zenvim**](https://github.com/nurmuhammedjoy/zenvim) | Neovim config tuned for Termux |
-| [**.dotfile**](https://github.com/nurmuhammedjoy/.dotfile) | i3, Polybar and Rofi setup for Termux |
+| Project | Description |
+| :--- | :--- |
+| [**tnotd**](https://github.com/nurmuhammedjoy/tnotd) | Android notifications → X11/GTK, written in C |
+| [**bspwm**](https://github.com/nurmuhammedjoy/bspwm) | Gruvbox BSPWM + Quickshell setup |
+| [**zenvim**](https://github.com/nurmuhammedjoy/zenvim) | Neovim configuration tuned for Termux |
+| [**.dotfile**](https://github.com/nurmuhammedjoy/.dotfile) | i3, Polybar, and Rofi setup for Termux |
 
-<br clear="right"/>
+---
 
-## Connect with me
+## 🛠️ Tech Stack
 
-<div align="center">
-  <a href="https://github.com/nurmuhammedjoy">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://discord.gg/ecNkBpkZ">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" />
-  </a>
-  <a href="mailto:nurmuhammedjoy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nur Muhammad Joy" />
-  </a>
-</div>
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GTK](https://img.shields.io/badge/GTK-%23430098.svg?style=for-the-badge&logo=gtk&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![X11](https://img.shields.io/badge/X11-FFFFFF?style=for-the-badge&logo=x11&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Tech stack
+---
 
-**Core — what I ship with**
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GTK-%23430098.svg?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/X11-FFFFFF?style=for-the-badge&logo=x11&logoColor=black" alt="X11" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=github_dark&hide_border=true" alt="Streak" />
+</p>
 
-**Web**
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
+## 📬 Connect With Me
 
-## GitHub stats
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nurmuhammedjoy&show_icons=true&theme=gruvbox&hide_border=true" alt="Nur Muhammad Joy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammedjoy&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Most used languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=gruvbox&hide_border=true" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave footer" />
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurmuhammedjoy)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ecNkBpkZ)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurmuhammedjoy@gmail.com)
