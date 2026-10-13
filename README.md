@@ -7,16 +7,15 @@
 
 ## 💻 About Me
 
-I'm Muhammad, age 17, I stashed programming
+💻 About Me
 
-## 🚀 Selected Work
+Hey, I'm Muhammad, a 17-year-old from Bangladesh 🇧🇩
 
-| Project | Description |
-| :--- | :--- |
-| [**tnotd**](https://github.com/nurmuhammedjoy/tnotd) | Android notifications → X11/GTK, written in C |
-| [**bspwm**](https://github.com/nurmuhammedjoy/bspwm) | Gruvbox BSPWM + Quickshell setup |
-| [**zenvim**](https://github.com/nurmuhammedjoy/zenvim) | Neovim configuration tuned for Termux |
-| [**.dotfile**](https://github.com/nurmuhammedjoy/.dotfile) | i3, Polybar, and Rofi setup for Termux |
+I got into programming when I was around 13–14. I used to watch Ben Eater and Matt Batwings on YouTube, and their videos got me interested in coding and building things myself.
+
+I'm mostly into frontend development, but I also enjoy exploring Linux and messing around with different tech.
+
+I graduated from BHKSC26 and currently study at Rajuk College.
 
 ---
 
