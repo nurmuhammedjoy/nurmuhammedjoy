@@ -7,11 +7,9 @@
 
 ## 💻 About Me
 
-💻 About Me
+Hey, I'm 17y old from Bangladesh 🇧🇩
 
-Hey, I'm Muhammad, a 17-year-old from Bangladesh 🇧🇩
-
-I got into programming when I was around 13–14. I used to watch Ben Eater and Matt Batwings on YouTube, and their videos got me interested in coding and building things myself.
+I got into programming when I was around 13/14. I used to watch Ben Eater and Matt Batwings on YouTube, and their videos got me interested in coding and building things myself.
 
 I'm mostly into frontend development, but I also enjoy exploring Linux and messing around with different tech.
 
@@ -19,7 +17,7 @@ I graduated from BHKSC26 and currently study at Rajuk College.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
