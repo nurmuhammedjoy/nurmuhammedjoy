@@ -3,8 +3,6 @@
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/nurmuhammedjoy)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nurmuhammedjoy.nurmuhammedjoy)
 
----
-
 ## 💻 About Me
 
 Hey, I'm 17y old from Bangladesh 🇧🇩
@@ -15,7 +13,8 @@ I'm mostly into frontend development, but I also enjoy exploring Linux and messi
 
 I graduated from BHKSC26 and currently study at Rajuk College.
 
----
+Feel free to <a href="https://discord.com/users/1350057227124182505"><b>DM</b></a> me anytime, whether it's to make friends, talk about tech, or ask for help. I'll do my best to help out.
+
 
 ## Tech Stack
 
@@ -33,15 +32,15 @@ I graduated from BHKSC26 and currently study at Rajuk College.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=github_dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=nurmuhammedjoy&theme=github-dark-blue&hide_border=true" alt="Streak" />
 </p>
 
----
+
 
 ## 📬 Connect With Me
 
