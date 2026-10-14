@@ -11,8 +11,6 @@ I got into programming when I was around 13/14. I used to watch Ben Eater and Ma
 
 I'm mostly into frontend development, but I also enjoy exploring Linux and messing around with different tech.
 
-I graduated from BHKSC26 and currently study at Rajuk College.
-
 Feel free to <a href="https://discord.com/users/1350057227124182505"><b>DM</b></a> me anytime, whether it's to make friends, talk about tech, or ask for help. I'll do my best to help out.
 
 
