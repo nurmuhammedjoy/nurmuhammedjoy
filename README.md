@@ -5,14 +5,9 @@
 
 ## 💻 About Me
 
-Hey, I'm 17y old from Bangladesh 🇧🇩
+It started with Matt Batwing building a calculator out of redstone in Minecraft. I went looking for how far that idea goes and found Ben Eater's 8-bit computer, and after that I wanted to know how to make a machine actually do something. That's when I started learning to program. Building the thing first, understanding it second that's still how I learn anything.
 
-I got into programming when I was around 13/14. I used to watch Ben Eater and Matt Batwings on YouTube, and their videos got me interested in coding and building things myself.
-
-I'm mostly into frontend development, but I also enjoy exploring Linux and messing around with different tech.
-
-Feel free to <a href="https://discord.com/users/1350057227124182505"><b>DM</b></a> me anytime, whether it's to make friends, talk about tech, or ask for help. I'll do my best to help out.
-
+### **I'm mostly into doing useless stuff or do pointless configuration now, so my <a href="https://discord.com/users/1350057227124182505">DMs</a> are open.**
 
 ## Tech Stack
 
