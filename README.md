@@ -7,7 +7,11 @@
 
 It started with Matt Batwing building a calculator out of redstone in Minecraft. I went looking for how far that idea goes and found Ben Eater's 8-bit computer, and after that I wanted to know how to make a machine actually do something. That's when I started learning to program. Building the thing first, understanding it second that's still how I learn anything.
 
-### **I'm mostly into doing useless stuff or do pointless configuration now, so my <a href="https://discord.com/users/1350057227124182505">DMs</a> are open.**
+### **I'm mostly into doing useless stuff or pointless configuration nowadays. My [DMs](https://discord.com/users/1350057227124182505) are open if you'd like to chat.**
+
+**Social Media:** [Reddit](https://www.reddit.com/u/Hot-Bid-6953)  [Instagram](https://www.instagram.com/nurmuhammedjoy)
+
+*I'm not active on social media. I don't use Facebook and don't have a Facebook account. I'm not a journalist, media professional, or anything of that sort. The links above are the only social media accounts that belong to me. Any other accounts claiming to represent me are fake or unaffiliated with me.*
 
 ## Tech Stack
 
